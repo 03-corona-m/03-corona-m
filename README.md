@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! 👋 SOY OSCAR CORONA
 
-<!--
-**03-corona-m/03-corona-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📸 Sobre mí
+Soy estudiante de **Informática** en CONALEP Tijuana 2. Me apasiona el desarrollo de software y la resolución de problemas.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy aprendiendo: **Python y Bases de Datos**.
+- 🌱 Mis próximos objetivos: Aprender **Desarrollo Web (HTML/CSS/JS)**.
+- 💬 Pregúntame sobre: **Soporte técnico, redes y macros de Excel**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades Técnicas
+- **Lenguajes:** C++.JAVA
+- **Herramientas:** Excel Avanzado, LaTeX, Git.
+- **Sistemas Operativos:** Windows, Linux (básico).
+
+## 📫 Cómo contactarme
+- **Correo:** ocorona2925@bc.conalep.edu.mx
+- **LinkedIn:** [Mi perfil](https://github.com/03-corona-m)
